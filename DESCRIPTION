@@ -1,8 +1,8 @@
 Package: Xcertainty
 Type: Package
 Title: Estimating Lengths and Uncertainty from Photogrammetric Imagery
-Version: 1.0.0
-Date: 2024-09-24
+Version: 1.0.1
+Date: 2024-10-25
 Authors@R: c(person(given = "Joshua",
                       family = "Hewitt",
                       role = "aut"),
@@ -30,6 +30,6 @@ LazyData: true
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-10-18 15:05:53 UTC; k.bierlich
+Packaged: 2024-10-25 23:06:05 UTC; k.bierlich
 Repository: CRAN
-Date/Publication: 2024-10-21 12:21:46 UTC
+Date/Publication: 2024-10-26 00:10:02 UTC
